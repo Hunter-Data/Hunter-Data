@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on **My Bachelor Degree**
+- 🔭 I’m currently working on **My Bachelor Degree** with 102/120 credits complete.
 
 - 🌱 I’m currently learning **Python, RStudio, SQL,**
 
